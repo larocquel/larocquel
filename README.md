@@ -22,7 +22,7 @@
 * VSCODE | VIM
 
 ## Examples of Work
-<div align="center">
+<div align="left">
   <img src="https://github.com/larocquel/larocquel/blob/main/pokemonlarocque.gif" width="480">
 </div>
 
