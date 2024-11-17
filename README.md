@@ -8,7 +8,7 @@
 
 * My current skills include Ubuntu, C and Shell.
 
-* Additionally, I'm eager to dive into Cybersecurity, AI, Crypto, and Design as I advance in my tech journey.
+* Additionally, I'm eager to dive into Cybersecurity, AI, Crypto and Design as I advance in my tech journey.
 
 * Let's connect and collaborate!
 
