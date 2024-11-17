@@ -13,18 +13,23 @@
 * Let's connect and collaborate!
 
 ## Skills and Experience
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,c,vscode,vim,git,github" />
   </a>
 </p>
 
 ## 42 Porto student
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/leoaguia" alt="leoaguia's 42 stats" /></a>
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/leoaguia" width="420" alt="leoaguia's 42 stats" /></a>
+</p>
 
 ## Examples of Work
+#### Pokémon La Rocque 
 <div align="left">
-  <img src="https://github.com/larocquel/larocquel/blob/main/pokemonlarocque.gif" width="480">
+  <a href="https://scratch.mit.edu/projects/961123940/" target="_blank">
+    <img src="https://github.com/larocquel/larocquel/blob/main/pokemonlarocque.gif" width="360">
+  </a>
 </div>
 
-- 🔭 I’m currently working on this page. 
+- OBS: I’m currently working on this page. 🔭 
