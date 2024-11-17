@@ -12,14 +12,15 @@
 
 * Let's connect and collaborate!
 
+## Skills and Experience
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,c,vscode,vim,git,github" />
+  </a>
+</p>
+
 ## 42 Porto student
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/leoaguia" alt="leoaguia's 42 stats" /></a>
-
-## Skills and Experience
-* C
-* LINUX | UNIX SHELL
-* GIT
-* VSCODE | VIM
 
 ## Examples of Work
 <div align="left">
