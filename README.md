@@ -20,15 +20,15 @@
 </p>
 
 ## 42 Porto student
-<p align="left">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/leoaguia" width="420" alt="leoaguia's 42 stats" /></a>
-</p>
+<div align="left">
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/leoaguia" alt="leoaguia's 42 stats" /></a>
+</div>
 
 ## Examples of Work
 #### Pokémon La Rocque 
 <div align="left">
   <a href="https://scratch.mit.edu/projects/961123940/" target="_blank">
-    <img src="https://github.com/larocquel/larocquel/blob/main/pokemonlarocque.gif" width="360">
+    <img src="https://github.com/larocquel/larocquel/blob/main/pokemonlarocque.gif" width="480">
   </a>
 </div>
 
