@@ -13,20 +13,20 @@
 * Let's connect and collaborate!
 
 ## Skills and Experience
-<p align="left">
+<p align="middle">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,c,vscode,vim,git,github" />
   </a>
 </p>
 
 ## 42 Porto student
-<div align="left">
+<div align="middle">
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/leoaguia" alt="leoaguia's 42 stats" /></a>
 </div>
 
 ## Examples of Work
 #### Pokémon La Rocque 
-<div align="left">
+<div align="middle">
   <a href="https://scratch.mit.edu/projects/961123940/" target="_blank">
     <img src="https://github.com/larocquel/larocquel/blob/main/pokemonlarocque.gif" width="480">
   </a>
