@@ -31,5 +31,3 @@
     <img src="https://github.com/larocquel/larocquel/blob/main/pokemonlarocque.gif" width="480">
   </a>
 </div>
-
-- OBS: I’m currently working on this page. 🔭 
