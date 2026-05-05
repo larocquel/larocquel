@@ -4,11 +4,9 @@
 
 ## Developer based in Porto, Portugal
 
-* I'm a passionate SciTech enthusiast with a strong drive to deepen my knowledge in programming and computing.
+* My current skills include Ubuntu, C, C++ and Shell.
 
-* My current skills include Ubuntu, C and Shell.
-
-* Additionally, I'm eager to dive into Cybersecurity, AI, Crypto and Design as I advance in my tech journey.
+* Additionally, I'm eager to dive into Business and Design as I advance in my tech journey.
 
 * Let's connect and collaborate!
 
