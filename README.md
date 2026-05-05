@@ -19,11 +19,6 @@
   </a>
 </p>
 
-## 42 Porto student
-<div align="middle">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/leoaguia" alt="leoaguia's 42 stats" /></a>
-</div>
-
 ## Examples of Work
 #### Pokémon La Rocque 
 <div align="middle">
