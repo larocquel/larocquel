@@ -3,7 +3,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/larocquel/larocquel/raw/a723ffc5499d8883e047fcff150b9786fa55a82f/images/banner.png" alt="Léo La Rocque Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/larocquel/larocquel/main/images/banner.png" alt="Léo La Rocque Banner" width="100%"/>
 </p>
 
 <!-- Badges -->
@@ -22,7 +22,7 @@
 
 ---
 
-## <a id=about-me></a> About Me
+## <a id="about-me"></a> About Me
 
 <!-- Stack Badges -->
 <p align="center">
@@ -36,31 +36,27 @@
   <img alt="GDB" src="https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=white"/>
 </p>
 
-
-
 Since childhood, I've been fascinated by humanity's remarkable ability to start from basic principles and arrive at technologies that once seemed like magic. That sense of wonder never left me, it simply found its place in computing.
 
-- **Developer** Focused on low-level programming and embedded electronics.
+- **Developer** focused on low-level programming and embedded electronics.
 - **42 Porto** Cadet
-- **Founder of MagraThea** - Entrepreneurship & Innovation Club at 42 Portugal
-- **Mechanical Engineering (2019–2023)** - Faculty of Engineering of the University of Porto (FEUP) 
-*Discontinued to pursue software*
+- **Founder of MagraThea** — Entrepreneurship & Innovation Club at 42 Portugal
+- **Mechanical Engineering (2019–2023)** — FEUP *(discontinued to pursue software)*
 
 ---
 
-## <a id=main-repositories></a> Main Repositories
+## <a id="main-repositories"></a> Main Repositories
 
-<!-- Grade de Banners -->
 <p align="center">
-  <a href="https://github.com/larocquel/42"><img src="https://github.com/larocquel/larocquel/raw/05503ca3138fe8a517e75240f09ad2ade0ecfd57/images/banner_42_blue.png" width="32.9%" alt="42 Common Core"/></a>
-  <a href="https://github.com/larocquel/Arduino"><img src="https://github.com/larocquel/larocquel/raw/05503ca3138fe8a517e75240f09ad2ade0ecfd57/images/banner_arduino_blue.png" width="32.9%" alt="Arduino Robotics"/></a>
+  <a href="https://github.com/larocquel/42"><img src="https://raw.githubusercontent.com/larocquel/larocquel/main/images/banner_42_blue.png" width="32.9%" alt="42 Common Core"/></a>
+  <a href="https://github.com/larocquel/Arduino"><img src="https://raw.githubusercontent.com/larocquel/larocquel/main/images/banner_arduino_blue.png" width="32.9%" alt="Arduino Robotics"/></a>
   <!-- To do: Insert MagraThea Repo in the future -->
-  <a href="https://github.com/larocquel"><img src="https://github.com/larocquel/larocquel/raw/05503ca3138fe8a517e75240f09ad2ade0ecfd57/images/banner_magrathea_blue.png" width="32.9%" alt="MagraThea"/></a>
+  <a href="https://github.com/larocquel"><img src="https://raw.githubusercontent.com/larocquel/larocquel/main/images/banner_magrathea_blue.png" width="32.9%" alt="MagraThea"/></a>
 </p>
 
 ---
 
-## <a id=42-projects></a> [42](https://42.fr/en/homepage/) Projects
+## <a id="42-projects"></a> [42](https://42.fr/en/homepage/) Projects
 
 *Here are some of my projects from [**42 Porto**](https://www.42porto.com/pt/). Click the project names to view the repositories. A grade higher than 100 means that the bonus tasks were delivered.*
 
@@ -68,7 +64,7 @@ Since childhood, I've been fascinated by humanity's remarkable ability to start 
 | :--- | :--- | :---: | :---: |
 | **[minishell](https://github.com/larocquel/42/tree/main/1-Common_Core/Milestone_03/minishell)** | Simplified version of the Bourne-Again Shell (Bash). Done in partnership. | `C` `Bash` `UNIX` `AST` | 100/100 |
 | **[philosophers](https://github.com/larocquel/42/tree/main/1-Common_Core/Milestone_03/philosophers)** | Implementation of the Dining Philosophers problem using multithreading and proper resource management. | `C` `Threads` `Mutexes` | 100/100 |
-| **[minitalk](https://github.com/larocquel/42/tree/main/1-Common_Core/Milestone_02/minitalk)** | A small data exchange program that uses UNIX signals to communicate strings between a client and a server. | `C` `UNIX Signals` | ★ 115/100  |
+| **[minitalk](https://github.com/larocquel/42/tree/main/1-Common_Core/Milestone_02/minitalk)** | A small data exchange program that uses UNIX signals to communicate strings between a client and a server. | `C` `UNIX Signals` | ★ 115/100 |
 | **[so_long](https://github.com/larocquel/42/tree/main/1-Common_Core/Milestone_02/so_long)** | A small 2D game where a character must collect all items on a map and reach the exit. | `C` `MiniLibX` `Game Dev` | 100/100 |
 | **[push_swap](https://github.com/larocquel/42/tree/main/1-Common_Core/Milestone_02/push_swap)** | Implementation of an optimized sorting algorithm using two stacks with the minimum possible number of operations. | `C` `Algorithms` `Stacks` | ★ 125/100 |
 | **born2beroot** | Setup and configuration of a virtual machine acting as a server, adhering to strict security policies. | `Debian` `VirtualBox` `Bash` | ★ 110/100 |
@@ -78,7 +74,7 @@ Since childhood, I've been fascinated by humanity's remarkable ability to start 
 
 ---
 
-## <a id=personal-projects></a> Personal Projects
+## <a id="personal-projects"></a> Personal Projects
 
 <table>
   <tr>
@@ -86,15 +82,14 @@ Since childhood, I've been fascinated by humanity's remarkable ability to start 
 
 ### 2WD Autonomous Robot
 <hr/>
-*Building an autonomous vehicle from scratch. Powered by Arduino UNO R3, Ultrasonic & Infrared Sensors.*
+<em>Building an autonomous vehicle from scratch. Powered by Arduino UNO R3, Ultrasonic &amp; Infrared Sensors.</em>
 <hr/>
 
-
 <p align="center">
-  <a href="https://github.com/larocquel/Arduino"><img src="https://github.com/larocquel/larocquel/raw/233eab1e4adf4b99ae2d1733e6b23205e3ce36e2/images/step2.gif" width="24%"/></a>
-  <a href="https://github.com/larocquel/Arduino"><img src="https://github.com/larocquel/larocquel/raw/233eab1e4adf4b99ae2d1733e6b23205e3ce36e2/images/step3.gif" width="24%"/></a>
-  <a href="https://github.com/larocquel/Arduino"><img src="https://github.com/larocquel/larocquel/raw/233eab1e4adf4b99ae2d1733e6b23205e3ce36e2/images/step4.gif" width="24%"/></a>
-  <a href="https://github.com/larocquel/Arduino"><img src="https://github.com/larocquel/larocquel/raw/233eab1e4adf4b99ae2d1733e6b23205e3ce36e2/images/step5.gif" width="24%"/></a>
+  <a href="https://github.com/larocquel/Arduino"><img src="https://raw.githubusercontent.com/larocquel/larocquel/main/images/step2.gif" width="24%"/></a>
+  <a href="https://github.com/larocquel/Arduino"><img src="https://raw.githubusercontent.com/larocquel/larocquel/main/images/step3.gif" width="24%"/></a>
+  <a href="https://github.com/larocquel/Arduino"><img src="https://raw.githubusercontent.com/larocquel/larocquel/main/images/step4.gif" width="24%"/></a>
+  <a href="https://github.com/larocquel/Arduino"><img src="https://raw.githubusercontent.com/larocquel/larocquel/main/images/step5.gif" width="24%"/></a>
 </p>
 
 </td>
@@ -103,7 +98,6 @@ Since childhood, I've been fascinated by humanity's remarkable ability to start 
     <td>
 
 ### Pokémon La Rocque
-
 <hr/>
 <p align="center">
   <em>My very first step into programming: a Pokémon game built entirely in <a href="https://scratch.mit.edu/projects/961123940/">scratch.mit.edu</a></em>
@@ -112,8 +106,9 @@ Since childhood, I've been fascinated by humanity's remarkable ability to start 
 
 <p align="center">
   <a href="https://scratch.mit.edu/projects/961123940/">
-    <img src="https://github.com/larocquel/larocquel/raw/233eab1e4adf4b99ae2d1733e6b23205e3ce36e2/images/pokemonlarocque.gif" width="400"/>
-  </br><strong>Play on Scratch →</strong></a>
+    <img src="https://raw.githubusercontent.com/larocquel/larocquel/main/images/pokemonlarocque.gif" width="500"/>
+    <br/><strong>Play on Scratch →</strong>
+  </a>
 </p>
 
 </td>
