@@ -21,7 +21,7 @@ I want to build things that matter. I want to be at the frontier of human techno
 ---
 
 ## Tech Stack
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,vim,vscode,git,github" />
   </a>
@@ -29,9 +29,27 @@ I want to build things that matter. I want to be at the frontier of human techno
 
 ---
 
+## [42](https://42.fr/en/homepage/) Portfolio
+
+Here are some of my projects from [**42 Porto**](https://www.42porto.com/pt/). Click the project names to view the repositories.
+
+| Name | Tools | Notions | Description |
+|---------|-------|---------|-------------|
+| [**minishell**](https://github.com/larocquel/42/tree/main/1-Common_Core/Milestone_03/minishell) | C, Makefile | Command Line Interface, Tokenization, Abstract Syntax Tree, UNIX processes, File Descriptors, Redirections, Pipes, Heredoc | Simplified version of the Bourne-Again Shell (Bash). Done in partnership. |
+| [**philosophers**](https://github.com/larocquel/42/tree/main/1-Common_Core/Milestone_03/philosophers) | C, Makefile, POSIX threads | Concurrency, Deadlock prevention, Mutexes, Synchronization | Implementation of the Dining Philosophers problem using multithreading and proper resource management. |
+| [**minitalk**](https://github.com/larocquel/42/tree/main/1-Common_Core/Milestone_02/minitalk) | C, Makefile | UNIX Signals, Client-Server Architecture, Bitwise Operations | A small data exchange program that uses UNIX signals (SIGUSR1 and SIGUSR2) to communicate strings between a client and a server. |
+| [**so_long**](https://github.com/larocquel/42/tree/main/1-Common_Core/Milestone_02/so_long) | C, Makefile, MiniLibX | 2D Graphics, Event Handling, Map Parsing, Pathfinding (Flood Fill) | A small 2D game where a character must collect all items on a map and reach the exit, focusing on basic game mechanics and rendering. |
+| [**push_swap**](https://github.com/larocquel/42/tree/main/1-Common_Core/Milestone_02/push_swap) | C, Makefile | Sorting Algorithms, Stack Operations, Algorithm Optimization | Implementation of an optimized sorting algorithm using two stacks to arrange data with the minimum possible number of operations. |
+| [**born2beroot**]() | VirtualBox, Debian/Rocky, Bash | System Administration, Virtualization, LVM, SSH, UFW, Bash Scripting | Setup and configuration of a virtual machine acting as a server, adhering to strict security policies and automated monitoring. |
+| [**ft_printf**](https://github.com/larocquel/42/tree/main/1-Common_Core/Milestone_01/ft_printf) | C, Makefile | Variadic Functions, Formatting, Conversions | Recreation of the standard C library `printf` function, handling multiple format specifiers and conversions. |
+| [**get_next_line**](https://github.com/larocquel/42/tree/main/1-Common_Core/Milestone_01/get_next_line) | C, Makefile | File I/O, Buffer Management, Static Variables | A function that reads a line from a file descriptor efficiently using static buffers, handling multiple file descriptors simultaneously. |
+| [**libft**](https://github.com/larocquel/42/tree/main/1-Common_Core/Milestone_00/libft) | C, Makefile | Memory Management, String Manipulation, Linked Lists | Custom C library re-implementing standard libc functions, including bonus functions for linked list manipulation. |
+
+---
+
 ## Examples of Work
 #### Pokémon La Rocque 
-<div align="left">
+<div align="center">
   <a href="https://scratch.mit.edu/projects/961123940/" target="_blank">
     <img src="https://github.com/larocquel/larocquel/blob/main/pokemonlarocque.gif" width="480">
   </a>
