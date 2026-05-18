@@ -86,10 +86,11 @@ Since childhood, I've been fascinated by humanity's remarkable ability to start 
 <hr/>
 
 <p align="center">
-  <a href="https://github.com/larocquel/Arduino"><img src="https://raw.githubusercontent.com/larocquel/larocquel/main/images/step2.gif" width="24%"/></a>
-  <a href="https://github.com/larocquel/Arduino"><img src="https://raw.githubusercontent.com/larocquel/larocquel/main/images/step3.gif" width="24%"/></a>
-  <a href="https://github.com/larocquel/Arduino"><img src="https://raw.githubusercontent.com/larocquel/larocquel/main/images/step4.gif" width="24%"/></a>
-  <a href="https://github.com/larocquel/Arduino"><img src="https://raw.githubusercontent.com/larocquel/larocquel/main/images/step5.gif" width="24%"/></a>
+  <a href="https://github.com/larocquel/Arduino"><img src="https://raw.githubusercontent.com/larocquel/larocquel/main/images/step2.gif" width="19%"/></a>
+  <a href="https://github.com/larocquel/Arduino"><img src="https://raw.githubusercontent.com/larocquel/larocquel/main/images/step3.0.gif" width="19%"/></a>
+  <a href="https://github.com/larocquel/Arduino"><img src="https://raw.githubusercontent.com/larocquel/larocquel/main/images/step3.1.gif" width="19%"/></a>
+  <a href="https://github.com/larocquel/Arduino"><img src="https://raw.githubusercontent.com/larocquel/larocquel/main/images/step3.2.gif" width="19%"/></a>
+  <a href="https://github.com/larocquel/Arduino"><img src="https://raw.githubusercontent.com/larocquel/larocquel/main/images/step4.gif" width="19%"/></a>
 </p>
 
 </td>
