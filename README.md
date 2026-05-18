@@ -1,5 +1,5 @@
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=ubuntu+mono&size=33&pause=1000&color=2CA4E4&width=700&height=60&lines=%E2%9E%9C++~+Bem+vindo!+I'm+L%C3%A9o+La+Rocque.;%E2%9E%9C++~+Systems+%26+Embedded+Developer.;%E2%9E%9C++~+Cadet+42+Porto.;%E2%9E%9C++~+Founder+of+MagraThea." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=ubuntu+mono&size=33&pause=1000&color=2CA4E4&width=700&height=60&lines=%E2%9E%9C++~+Welcome!+I'm+L%C3%A9o+La+Rocque.;%E2%9E%9C++~+Systems+%26+Embedded+Developer.;%E2%9E%9C++~+Cadet+42+Porto.;%E2%9E%9C++~+Founder+of+MagraThea." alt="Typing SVG" /></a>
 
 <!-- Banner -->
 <p align="center">
