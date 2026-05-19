@@ -46,6 +46,7 @@ Since childhood, I've been fascinated by humanity's remarkable ability to start 
 ---
 
 ## <a id="main-repositories"></a> Main Repositories
+*Click a banner to access the repository*
 
 <p align="center">
   <a href="https://github.com/larocquel/42"><img src="https://raw.githubusercontent.com/larocquel/larocquel/main/images/banner_42_blue.png" width="32.9%" alt="42 Common Core"/></a>
