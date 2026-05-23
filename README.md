@@ -41,7 +41,7 @@ Since childhood, I've been fascinated by humanity's remarkable ability to start 
 - **Developer** focused on low-level programming and embedded electronics.
 - **42 Porto** Cadet
 - **Founder of MagraThea** — Entrepreneurship & Innovation Club at 42 Portugal
-- **Mechanical Engineering (2019–2023)** — FEUP *(discontinued to pursue software)*
+- **Mechanical Engineering (2019–2023)** — FEUP
 
 ---
 
