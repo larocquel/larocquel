@@ -9,7 +9,7 @@
 <!-- Badges -->
 <p align="center">
   <a href="https://www.42porto.com/pt/" target="_blank"><img alt="42" src="https://img.shields.io/badge/Porto-000000?style=for-the-badge&logo=42&logoColor=00FFFF"/></a>
-  <a><img src="https://komarev.com/ghpvc/?username=larocquel&style=for-the-badge&color=00FFFF&label=Profile+Visits"></a>
+  <a><img src="https://komarev.com/ghpvc/?username=larocquel&style=for-the-badge&color=26D2ED&label=Profile+Visits"></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=leonardolarocque@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/leonardo-la-rocque-b7385a1b2/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
