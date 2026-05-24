@@ -91,7 +91,7 @@ Since childhood, I've been fascinated by humanity's remarkable ability to start 
   <a href="https://github.com/larocquel/Arduino"><img src="https://raw.githubusercontent.com/larocquel/larocquel/main/images/step3.0.gif" width="19%"/></a>
   <a href="https://github.com/larocquel/Arduino"><img src="https://raw.githubusercontent.com/larocquel/larocquel/main/images/step3.1.gif" width="19%"/></a>
   <a href="https://github.com/larocquel/Arduino"><img src="https://raw.githubusercontent.com/larocquel/larocquel/main/images/step3.2.gif" width="19%"/></a>
-  <a href="https://github.com/larocquel/Arduino"><img src="https://raw.githubusercontent.com/larocquel/larocquel/main/images/step4.gif" width="19%"/></a>
+  <a href="https://github.com/larocquel/Arduino"><img src="https://github.com/larocquel/Arduino/raw/09853c22a138d18f07671380b89785e05349511d/images/phase2/step4.gif" width="19%"/></a>
 </p>
 
 </td>
