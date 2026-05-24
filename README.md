@@ -50,7 +50,7 @@ Since childhood, I've been fascinated by humanity's remarkable ability to start 
 
 <p align="center">
   <a href="https://github.com/larocquel/42"><img src="https://raw.githubusercontent.com/larocquel/larocquel/main/images/banner_42_blue.png" width="32.9%" alt="42 Common Core"/></a>
-  <a href="https://github.com/larocquel/Arduino"><img src="https://raw.githubusercontent.com/larocquel/larocquel/main/images/banner_arduino_blue.png" width="32.9%" alt="Arduino Robotics"/></a>
+  <a href="https://github.com/larocquel/Arduino"><img src="https://github.com/larocquel/larocquel/raw/607757616a79d8608ee23d341969a585ab67176a/images/banner_arduino_blue.png" width="32.9%" alt="Arduino Robotics"/></a>
   <!-- To do: Insert MagraThea Repo in the future -->
   <a href="https://github.com/larocquel"><img src="https://raw.githubusercontent.com/larocquel/larocquel/main/images/banner_magrathea_blue.png" width="32.9%" alt="MagraThea"/></a>
 </p>
